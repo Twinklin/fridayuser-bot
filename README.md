@@ -1,0 +1,1 @@
+# fridayuser-bot
